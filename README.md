@@ -1,4 +1,4 @@
-# 09-2022-MongoDB-Express-Training
+# First fullstack project 
 
 ## Start Frontend interface
 - cd frontend
