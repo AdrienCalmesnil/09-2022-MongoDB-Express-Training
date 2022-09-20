@@ -1,4 +1,5 @@
 # First fullstack project 
+With node.js + nodemon / MongoDB + Mongoose /express.js
 
 ## Start Frontend interface
 - cd frontend
